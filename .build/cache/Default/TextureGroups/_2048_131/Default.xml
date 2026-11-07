@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1" mipsToGenerate="0" texwidth="2048" texheight="2048">default_0.bz2</texture>
+  <tpe x="2" y="2" tpage="default_0.bz2">Sprite6_Game_Belicon_4fec7d27-6108-45b0-835e-5123f0745b96.tpe</tpe>
+  <tpe x="2" y="1086" tpage="default_0.bz2">spr_ciudad_Game_Belicon_26357cb8-7c31-4f52-b829-cbb753c174f2.tpe</tpe>
+  <tpe x="2" y="1858" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_0f3fc450-13a2-4d43-8a23-99ab16435f85.tpe</tpe>
+  <tpe x="50" y="1858" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_a84736ee-2513-4490-81ec-4cc0a52dfd47.tpe</tpe>
+  <tpe x="2" y="1916" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_2106e917-f2a3-4d9a-9224-58feb7323510.tpe</tpe>
+  <tpe x="98" y="1858" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_f01375dc-3b2a-49b5-a72e-186aa77ad0cf.tpe</tpe>
+  <tpe x="95" y="1916" tpage="default_0.bz2">Spr_soldado_stand_Game_Belicon_533ceaeb-df35-4e3d-9f23-56a0e8868d90.tpe</tpe>
+  <tpe x="49" y="1916" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_2b9e70fc-e840-4cdd-992a-cea1778a9d23.tpe</tpe>
+  <tpe x="2" y="1974" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_70848169-eeb8-41a7-9fb7-ae6fc621f6bb.tpe</tpe>
+  <tpe x="145" y="1858" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_9d98d1c2-76c9-4ab4-87e2-535a6d9e451c.tpe</tpe>
+  <tpe x="95" y="1916" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_eb45814d-ec67-401d-a0b3-c4a238ad2cf1.tpe</tpe>
+  <tpe x="48" y="1974" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_a01b1810-7c58-40ee-b896-273e9dffb0ff.tpe</tpe>
+  <tpe x="191" y="1858" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_dc2345df-4849-44b7-93d3-24ae57e4ea1b.tpe</tpe>
+  <tpe x="141" y="1916" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_0b691627-6645-42d1-a052-24532584e21f.tpe</tpe>
+  <tpe x="93" y="1974" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_24707d85-c7c4-4d76-a94c-f6c5f7181902.tpe</tpe>
+  <tpe x="236" y="1858" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_34efbf79-26a8-497f-9cc1-d9147bc93a2c.tpe</tpe>
+  <tpe x="187" y="1916" tpage="default_0.bz2">Spr_soldado_verde2_Game_Belicon_6b42f7b3-c5ab-4b0e-aee7-2ef2fcc0be01.tpe</tpe>
+  <tpe x="141" y="1972" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_17516c93-a1c0-4bd1-a80e-fa4ad17869fc.tpe</tpe>
+  <tpe x="282" y="1858" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_565b610c-5315-4d4f-8558-d1f5796c8f8b.tpe</tpe>
+  <tpe x="233" y="1916" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_0399df0f-ec0b-43a6-94ae-bb1297b79e1e.tpe</tpe>
+  <tpe x="185" y="1972" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_1f28a1cf-f940-43f6-81bf-2e25a015ff61.tpe</tpe>
+  <tpe x="326" y="1858" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_77d95ee1-9ed2-4632-b2fe-115cbcd1ce64.tpe</tpe>
+  <tpe x="273" y="1916" tpage="default_0.bz2">Spr_soldado_cafe2_Game_Belicon_82e34487-3ec9-4222-a0a3-003bfe653b53.tpe</tpe>
+  <tpe x="225" y="1972" tpage="default_0.bz2">spr_soldado_cafe_Game_Belicon_7d404677-c6d4-468b-96a8-925022e4a37a.tpe</tpe>
+  <tpe x="366" y="1858" tpage="default_0.bz2">spr_soldado_verde_Game_Belicon_9bb06bc4-5047-4427-b090-03352244ae35.tpe</tpe>
+  <tpe x="2" y="2032" tpage="default_0.bz2">spr_bala_enemiga_Game_Belicon_d77cc0e3-e50a-452e-8dcf-246b96188217.tpe</tpe>
+  <tpe x="93" y="2030" tpage="default_0.bz2">spr_bala_verde_Game_Belicon_38f85951-b4c6-4b1b-adf0-8e365d585c9a.tpe</tpe>
+</TextureGroup>

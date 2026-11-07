@@ -1,0 +1,22 @@
+GAME BELICON
+Abrir Game_Belicon.yyp y pulsar F5.
+W A S D: movimiento y animacion al mantener pulsada cualquiera de estas teclas.
+Al soltar todas, el jugador usa Spr_soldado_stand, sin animacion.
+Espacio: un disparo hacia la derecha por pulsacion.
+Enemigos cafe claro: aparecen por el borde derecho, altura aleatoria.
+Disparan hacia la posicion del jugador cada 2 segundos.
+Jugador: muere al tercer impacto. Enemigo: desaparece al primer impacto.
+Puntos: empieza en 0 y suma 5 por cada enemigo cafe eliminado con una bala del jugador.
+El marcador aparece arriba a la izquierda y se conserva al morir.
+Al morir, el jugador desaparece; ejecutar de nuevo desde GameMaker para otra partida.
+La ciudad es decorativa; no hay colisiones con edificios.
+Todos los eventos son GML Visual (isDnD=true), editables en bloques. No hay scripts ni acciones Ejecutar codigo.
+GameMaker serializa sus bloques en archivos .gml con metadatos @DnD; esa extension tambien es normal en proyectos visuales.
+
+BLOQUES MODIFICADOS
+obj_jugador > Begin Step: caminando = false con Assign Variable.
+obj_jugador > Key Down W/A/S/D: caminando = true y movimiento existente.
+obj_jugador > End Step: If Variable y Set Sprite para caminar o quedarse quieto.
+obj_generador > Create: Assign Global Variable, puntuacion en 0.
+obj_enemigo > Collision con obj_bala_jugador: puntuacion en 5 con Relative activado.
+obj_generador > Draw GUI: fondo del marcador y Draw Value Transformed.
